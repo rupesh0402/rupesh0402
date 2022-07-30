@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Data Science Projects**
 
-- 🌱 I’m currently learning **Data analytics and Big Data**
-
 - 📫 How to reach me **rskumar0402@gmail.com**
 
 - 📄 Know about my experiences [https://rupesh0402.github.io/](https://rupesh0402.github.io/)
