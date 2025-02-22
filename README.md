@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rupesh</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">Associate Software Developer at SHL (Aspiring Minds AMCAT)</h3>
 
-- 🔭 I’m currently working on **Data Science Projects**
+- 🔭 I’m currently working on **ANGULAR/REACT AND PHP **
 
 - 📫 How to reach me **rskumar0402@gmail.com**
 
